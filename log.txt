@@ -1,0 +1,10 @@
+2022-5-3: 17-7-48
+extention .nd2
+enlarge by factor -5
+exclude nucleus (this applies only for profiles) 0
+minimal dapi size 200
+maximum dapi size 10000
+blur dapi by sigma 10
+Thresholds (dapi excluded)_1.1
+automatic threshold 0
+threshold method (if auto) Otsu dark
