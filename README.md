@@ -55,7 +55,7 @@ All parameters used in the original study are available in the log file: `log.tx
 - **Threshold Method**: Select the thresholding method.
 
 
-![GUI Screenshot](https://raw.githubusercontent.com/ngimber/Particle_Exclusion_Assay/main/GUI.png)
+![GUI Screenshot](https://github.com/ngimber/Particle_Exclusion_Assay/blob/main/GUI.png)
 
 ### Z Alignment
 
