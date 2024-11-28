@@ -65,7 +65,8 @@ Run `z_alignment.py` to align z-profiles based on the segmented images.
 If you use this code, please cite:
 
 - S.G. Twamley et al., International Journal of Nanomedicine. DOI: 10.2147/ijn.s437714
-- This GitHub repository: https://github.com/ngimber/Particle_Exclusion_Assay
+  and 
+- Gimber, N. (2024). Particle Exclusion Assay. GitHub. https://github.com/ngimber/Particle_Exclusion_Assay
 
 ## License
 This repository is licensed under the MIT License.
