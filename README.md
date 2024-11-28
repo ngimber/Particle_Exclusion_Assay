@@ -3,6 +3,9 @@
 This repository contains ImageJ macros and a Python script for automating the generation and quantification of z-profiles on the endothelial glycocalyx layer in spinning disc confocal image stacks. For full study details, refer to:
 S.G. Twamley et al., International Journal of Nanomedicine. DOI: [10.2147/ijn.s437714](https://doi.org/10.2147/ijn.s437714)
 
+[![Video Title](https://img.youtube.com/vi/oHuG9-NGpjo/0.jpg)](https://youtu.be/oHuG9-NGpjo)
+
+
 ## Background
 The quantitative particle exclusion assay measures the endothelial glycocalyx response to shear stress. By analyzing how particles are excluded from the cell surface under shear stress, the assay offers insights into glycocalyx behavior and its interaction with mechanical forces, critical for understanding vascular health and endothelial function. This automated workflow generates and quantifies z-profiles to capture the spatial distribution of fluorescence intensities across the endothelial layer, revealing cellular organization and tissue architecture.
 
