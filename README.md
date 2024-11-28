@@ -54,6 +54,8 @@ All parameters used in the original study are available in the log file: `log.tx
 - **Autothreshold**: Enable automatic thresholding for segmentation.
 - **Threshold Method**: Select the thresholding method.
 
+- ![GUI Screenshot](https://raw.githubusercontent.com/ngimber/Particle_Exclusion_Assay/main/GUI.png)
+
 ### Z Alignment
 
 Run `z_alignment.py` to align z-profiles based on the segmented images.
